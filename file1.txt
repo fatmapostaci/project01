@@ -6,3 +6,5 @@ versiyon3
 
 master değişiklik yapıyor
 tester güncelleme yapıyor
+
+dosyada güncelleme yapıyorum
